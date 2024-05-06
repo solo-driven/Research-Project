@@ -1,0 +1,364 @@
+Trade day 1 Not Enough Share to Sell. Do NothingThe Current Balance is 10000000.00. The Current Fund is 10000000.00
+Trade day 2 Successfully Order 6999965.82  . Buy Fee = 10499.95.The Current Balance is 9989500.05. The Current Fund is 2989534.23
+Trade day 3 Not enough fund to buy. Do Nothing.The Current Balance is 10062101.37. The Current Fund is 2989534.23
+Trade day 4 Not enough fund to buy. Do Nothing.The Current Balance is 9954812.77. The Current Fund is 2989534.23
+Trade day 5 Not enough fund to buy. Do Nothing.The Current Balance is 9958442.71. The Current Fund is 2989534.23
+Trade day 6 Successfully Sell 7013679.22  . Sell Fee = 10520.52.The Current Balance is 9992692.93. The Current Fund is 9992692.93
+Trade day 7 Successfully Order 6999919.52  . Buy Fee = 10499.88.The Current Balance is 9982193.05. The Current Fund is 2982273.53
+Trade day 8 Keep.The Current Balance is 9964383.53. The Current Fund is 2982273.53
+Trade day 9 Not enough fund to buy. Do Nothing.The Current Balance is 10059502.37. The Current Fund is 2982273.53
+Trade day 10 Successfully Sell 7219299.40  . Sell Fee = 10828.95.The Current Balance is 10190743.98. The Current Fund is 10190743.98
+Trade day 11 Successfully Order 6999838.79  . Buy Fee = 10499.76.The Current Balance is 10180244.22. The Current Fund is 3180405.43
+Trade day 12 Keep.The Current Balance is 10322416.56. The Current Fund is 3180405.43
+Trade day 13 Successfully Sell 7287034.76  . Sell Fee = 10930.55.The Current Balance is 10456509.64. The Current Fund is 10456509.64
+Trade day 14 Keep.The Current Balance is 10456509.64. The Current Fund is 10456509.64
+Trade day 15 Not Enough Share to Sell. Do NothingThe Current Balance is 10456509.64. The Current Fund is 10456509.64
+Trade day 16 Successfully Order 6999926.93  . Buy Fee = 10499.89.The Current Balance is 10446009.75. The Current Fund is 3446082.83
+Trade day 17 Not enough fund to buy. Do Nothing.The Current Balance is 10193769.87. The Current Fund is 3446082.83
+Trade day 18 Keep.The Current Balance is 10120783.33. The Current Fund is 3446082.83
+Trade day 19 Successfully Sell 6772268.44  . Sell Fee = 10158.40.The Current Balance is 10208192.86. The Current Fund is 10208192.86
+Trade day 20 Keep.The Current Balance is 10208192.86. The Current Fund is 10208192.86
+Trade day 21 Keep.The Current Balance is 10208192.86. The Current Fund is 10208192.86
+Trade day 22 Keep.The Current Balance is 10208192.86. The Current Fund is 10208192.86
+Trade day 23 Not Enough Share to Sell. Do NothingThe Current Balance is 10208192.86. The Current Fund is 10208192.86
+Trade day 24 Successfully Order 6999915.76  . Buy Fee = 10499.87.The Current Balance is 10197692.99. The Current Fund is 3197777.23
+Trade day 25 Successfully Sell 7037254.59  . Sell Fee = 10555.88.The Current Balance is 10224475.93. The Current Fund is 10224475.93
+Trade day 26 Not Enough Share to Sell. Do NothingThe Current Balance is 10224475.93. The Current Fund is 10224475.93
+Trade day 27 Not Enough Share to Sell. Do NothingThe Current Balance is 10224475.93. The Current Fund is 10224475.93
+Trade day 28 Not Enough Share to Sell. Do NothingThe Current Balance is 10224475.93. The Current Fund is 10224475.93
+Trade day 29 Not Enough Share to Sell. Do NothingThe Current Balance is 10224475.93. The Current Fund is 10224475.93
+Trade day 30 Keep.The Current Balance is 10224475.93. The Current Fund is 10224475.93
+Trade day 31 Keep.The Current Balance is 10224475.93. The Current Fund is 10224475.93
+Trade day 32 Not Enough Share to Sell. Do NothingThe Current Balance is 10224475.93. The Current Fund is 10224475.93
+Trade day 33 Successfully Order 6999871.29  . Buy Fee = 10499.81.The Current Balance is 10213976.12. The Current Fund is 3214104.84
+Trade day 34 Successfully Sell 7058416.65  . Sell Fee = 10587.62.The Current Balance is 10261933.86. The Current Fund is 10261933.86
+Trade day 35 Not Enough Share to Sell. Do NothingThe Current Balance is 10261933.86. The Current Fund is 10261933.86
+Trade day 36 Keep.The Current Balance is 10261933.86. The Current Fund is 10261933.86
+Trade day 37 Keep.The Current Balance is 10261933.86. The Current Fund is 10261933.86
+Trade day 38 Not Enough Share to Sell. Do NothingThe Current Balance is 10261933.86. The Current Fund is 10261933.86
+Trade day 39 Successfully Order 6999818.00  . Buy Fee = 10499.73.The Current Balance is 10251434.13. The Current Fund is 3251616.13
+Trade day 40 Successfully Sell 6936723.16  . Sell Fee = 10405.08.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 41 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 42 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 43 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 44 Not Enough Share to Sell. Do NothingThe Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 45 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 46 Not Enough Share to Sell. Do NothingThe Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 47 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 48 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 49 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 50 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 51 Keep.The Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 52 Not Enough Share to Sell. Do NothingThe Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 53 Not Enough Share to Sell. Do NothingThe Current Balance is 10177934.20. The Current Fund is 10177934.20
+Trade day 54 Successfully Order 6999819.00  . Buy Fee = 10499.73.The Current Balance is 10167434.47. The Current Fund is 3167615.47
+Trade day 55 Keep.The Current Balance is 10224944.72. The Current Fund is 3167615.47
+Trade day 56 Not enough fund to buy. Do Nothing.The Current Balance is 10047155.76. The Current Fund is 3167615.47
+Trade day 57 Successfully Sell 6770106.47  . Sell Fee = 10155.16.The Current Balance is 9927566.77. The Current Fund is 9927566.77
+Trade day 58 Not Enough Share to Sell. Do NothingThe Current Balance is 9927566.77. The Current Fund is 9927566.77
+Trade day 59 Successfully Order 6999887.28  . Buy Fee = 10499.83.The Current Balance is 9917066.94. The Current Fund is 2917179.67
+Trade day 60 Successfully Sell 6958819.00  . Sell Fee = 10438.23.The Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 61 Keep.The Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 62 Keep.The Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 63 Keep.The Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 64 Not Enough Share to Sell. Do NothingThe Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 65 Not Enough Share to Sell. Do NothingThe Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 66 Not Enough Share to Sell. Do NothingThe Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 67 Not Enough Share to Sell. Do NothingThe Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 68 Keep.The Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 69 Not Enough Share to Sell. Do NothingThe Current Balance is 9865560.44. The Current Fund is 9865560.44
+Trade day 70 Successfully Order 6999828.33  . Buy Fee = 10499.74.The Current Balance is 9855060.70. The Current Fund is 2855232.37
+Trade day 71 Not enough fund to buy. Do Nothing.The Current Balance is 9519412.97. The Current Fund is 2855232.37
+Trade day 72 Not enough fund to buy. Do Nothing.The Current Balance is 9597103.32. The Current Fund is 2855232.37
+Trade day 73 Not enough fund to buy. Do Nothing.The Current Balance is 9633762.07. The Current Fund is 2855232.37
+Trade day 74 Successfully Sell 6879425.70  . Sell Fee = 10319.14.The Current Balance is 9724338.93. The Current Fund is 9724338.93
+Trade day 75 Not Enough Share to Sell. Do NothingThe Current Balance is 9724338.93. The Current Fund is 9724338.93
+Trade day 76 Keep.The Current Balance is 9724338.93. The Current Fund is 9724338.93
+Trade day 77 Keep.The Current Balance is 9724338.93. The Current Fund is 9724338.93
+Trade day 78 Successfully Order 6999834.65  . Buy Fee = 10499.75.The Current Balance is 9713839.18. The Current Fund is 2714004.53
+Trade day 79 Keep.The Current Balance is 9689599.62. The Current Fund is 2714004.53
+Trade day 80 Not enough fund to buy. Do Nothing.The Current Balance is 9488950.53. The Current Fund is 2714004.53
+Trade day 81 Not enough fund to buy. Do Nothing.The Current Balance is 9550559.38. The Current Fund is 2714004.53
+Trade day 82 Keep.The Current Balance is 9560658.78. The Current Fund is 2714004.53
+Trade day 83 Successfully Sell 6978288.45  . Sell Fee = 10467.43.The Current Balance is 9681825.54. The Current Fund is 9681825.54
+Trade day 84 Keep.The Current Balance is 9681825.54. The Current Fund is 9681825.54
+Trade day 85 Successfully Order 6999895.57  . Buy Fee = 10499.84.The Current Balance is 9671325.70. The Current Fund is 2671430.13
+Trade day 86 Keep.The Current Balance is 9597602.73. The Current Fund is 2671430.13
+Trade day 87 Successfully Sell 7054326.64  . Sell Fee = 10581.49.The Current Balance is 9715175.27. The Current Fund is 9715175.27
+Trade day 88 Successfully Order 6999921.10  . Buy Fee = 10499.88.The Current Balance is 9704675.39. The Current Fund is 2704754.30
+Trade day 89 Successfully Sell 6707887.50  . Sell Fee = 10061.83.The Current Balance is 9402579.96. The Current Fund is 9402579.96
+Trade day 90 Successfully Order 6999920.69  . Buy Fee = 10499.88.The Current Balance is 9392080.08. The Current Fund is 2392159.39
+Trade day 91 Keep.The Current Balance is 9378992.99. The Current Fund is 2392159.39
+Trade day 92 Successfully Sell 7094361.72  . Sell Fee = 10641.54.The Current Balance is 9475879.57. The Current Fund is 9475879.57
+Trade day 93 Successfully Order 6999999.12  . Buy Fee = 10500.00.The Current Balance is 9465379.57. The Current Fund is 2465380.45
+Trade day 94 Not enough fund to buy. Do Nothing.The Current Balance is 9568179.89. The Current Fund is 2465380.45
+Trade day 95 Keep.The Current Balance is 9673029.33. The Current Fund is 2465380.45
+Trade day 96 Keep.The Current Balance is 9720502.00. The Current Fund is 2465380.45
+Trade day 97 Keep.The Current Balance is 9821595.09. The Current Fund is 2465380.45
+Trade day 98 Not enough fund to buy. Do Nothing.The Current Balance is 9770706.94. The Current Fund is 2465380.45
+Trade day 99 Keep.The Current Balance is 9637510.45. The Current Fund is 2465380.45
+Trade day 100 Keep.The Current Balance is 9684299.89. The Current Fund is 2465380.45
+Trade day 101 Keep.The Current Balance is 9664149.76. The Current Fund is 2465380.45
+Trade day 102 Successfully Sell 7251365.20  . Sell Fee = 10877.05.The Current Balance is 9705868.60. The Current Fund is 9705868.60
+Trade day 103 Keep.The Current Balance is 9705868.60. The Current Fund is 9705868.60
+Trade day 104 Not Enough Share to Sell. Do NothingThe Current Balance is 9705868.60. The Current Fund is 9705868.60
+Trade day 105 Successfully Order 6999942.37  . Buy Fee = 10499.91.The Current Balance is 9695368.69. The Current Fund is 2695426.31
+Trade day 106 Not enough fund to buy. Do Nothing.The Current Balance is 9810582.37. The Current Fund is 2695426.31
+Trade day 107 Not enough fund to buy. Do Nothing.The Current Balance is 9926490.25. The Current Fund is 2695426.31
+Trade day 108 Not enough fund to buy. Do Nothing.The Current Balance is 9938289.69. The Current Fund is 2695426.31
+Trade day 109 Keep.The Current Balance is 9886928.87. The Current Fund is 2695426.31
+Trade day 110 Not enough fund to buy. Do Nothing.The Current Balance is 9814746.56. The Current Fund is 2695426.31
+Trade day 111 Successfully Sell 7140836.45  . Sell Fee = 10711.25.The Current Balance is 9825551.51. The Current Fund is 9825551.51
+Trade day 112 Successfully Order 6999817.87  . Buy Fee = 10499.73.The Current Balance is 9815051.78. The Current Fund is 2815233.91
+Trade day 113 Keep.The Current Balance is 9844132.48. The Current Fund is 2815233.91
+Trade day 114 Successfully Sell 7133104.56  . Sell Fee = 10699.66.The Current Balance is 9937638.81. The Current Fund is 9937638.81
+Trade day 115 Keep.The Current Balance is 9937638.81. The Current Fund is 9937638.81
+Trade day 116 Not Enough Share to Sell. Do NothingThe Current Balance is 9937638.81. The Current Fund is 9937638.81
+Trade day 117 Successfully Order 6999930.00  . Buy Fee = 10499.90.The Current Balance is 9927138.92. The Current Fund is 2927208.92
+Trade day 118 Keep.The Current Balance is 9847237.88. The Current Fund is 2927208.92
+Trade day 119 Successfully Sell 6786402.10  . Sell Fee = 10179.60.The Current Balance is 9703431.42. The Current Fund is 9703431.42
+Trade day 120 Not Enough Share to Sell. Do NothingThe Current Balance is 9703431.42. The Current Fund is 9703431.42
+Trade day 121 Successfully Order 6999968.18  . Buy Fee = 10499.95.The Current Balance is 9692931.47. The Current Fund is 2692963.28
+Trade day 122 Keep.The Current Balance is 9856877.14. The Current Fund is 2692963.28
+Trade day 123 Keep.The Current Balance is 9819971.38. The Current Fund is 2692963.28
+Trade day 124 Not enough fund to buy. Do Nothing.The Current Balance is 9855457.38. The Current Fund is 2692963.28
+Trade day 125 Keep.The Current Balance is 9815003.38. The Current Fund is 2692963.28
+Trade day 126 Keep.The Current Balance is 9888459.65. The Current Fund is 2692963.28
+Trade day 127 Not enough fund to buy. Do Nothing.The Current Balance is 9821035.93. The Current Fund is 2692963.28
+Trade day 128 Keep.The Current Balance is 10033951.93. The Current Fund is 2692963.28
+Trade day 129 Keep.The Current Balance is 10047082.10. The Current Fund is 2692963.28
+Trade day 130 Not enough fund to buy. Do Nothing.The Current Balance is 9984981.60. The Current Fund is 2692963.28
+Trade day 131 Keep.The Current Balance is 9999885.69. The Current Fund is 2692963.28
+Trade day 132 Not enough fund to buy. Do Nothing.The Current Balance is 9882427.10. The Current Fund is 2692963.28
+Trade day 133 Not enough fund to buy. Do Nothing.The Current Balance is 9764258.65. The Current Fund is 2692963.28
+Trade day 134 Not enough fund to buy. Do Nothing.The Current Balance is 9821035.93. The Current Fund is 2692963.28
+Trade day 135 Not enough fund to buy. Do Nothing.The Current Balance is 9918977.64. The Current Fund is 2692963.28
+Trade day 136 Keep.The Current Balance is 9956592.69. The Current Fund is 2692963.28
+Trade day 137 Not enough fund to buy. Do Nothing.The Current Balance is 9992433.38. The Current Fund is 2692963.28
+Trade day 138 Successfully Sell 7379668.81  . Sell Fee = 11069.50.The Current Balance is 10061562.59. The Current Fund is 10061562.59
+Trade day 139 Successfully Order 6999882.71  . Buy Fee = 10499.82.The Current Balance is 10051062.76. The Current Fund is 3051180.06
+Trade day 140 Not enough fund to buy. Do Nothing.The Current Balance is 9902086.94. The Current Fund is 3051180.06
+Trade day 141 Successfully Sell 6802013.83  . Sell Fee = 10203.02.The Current Balance is 9842990.86. The Current Fund is 9842990.86
+Trade day 142 Not Enough Share to Sell. Do NothingThe Current Balance is 9842990.86. The Current Fund is 9842990.86
+Trade day 143 Keep.The Current Balance is 9842990.86. The Current Fund is 9842990.86
+Trade day 144 Successfully Order 6999989.66  . Buy Fee = 10499.98.The Current Balance is 9832490.88. The Current Fund is 2832501.22
+Trade day 145 Not enough fund to buy. Do Nothing.The Current Balance is 9969391.88. The Current Fund is 2832501.22
+Trade day 146 Not enough fund to buy. Do Nothing.The Current Balance is 9931381.95. The Current Fund is 2832501.22
+Trade day 147 Keep.The Current Balance is 9819283.83. The Current Fund is 2832501.22
+Trade day 148 Keep.The Current Balance is 9900136.27. The Current Fund is 2832501.22
+Trade day 149 Not enough fund to buy. Do Nothing.The Current Balance is 9918819.27. The Current Fund is 2832501.22
+Trade day 150 Keep.The Current Balance is 9673363.50. The Current Fund is 2832501.22
+Trade day 151 Successfully Sell 6831521.02  . Sell Fee = 10247.28.The Current Balance is 9653774.97. The Current Fund is 9653774.97
+Trade day 152 Successfully Order 6999992.48  . Buy Fee = 10499.99.The Current Balance is 9643274.98. The Current Fund is 2643282.49
+Trade day 153 Keep.The Current Balance is 9636466.08. The Current Fund is 2643282.49
+Trade day 154 Successfully Sell 6998971.17  . Sell Fee = 10498.46.The Current Balance is 9631755.21. The Current Fund is 9631755.21
+Trade day 155 Keep.The Current Balance is 9631755.21. The Current Fund is 9631755.21
+Trade day 156 Not Enough Share to Sell. Do NothingThe Current Balance is 9631755.21. The Current Fund is 9631755.21
+Trade day 157 Not Enough Share to Sell. Do NothingThe Current Balance is 9631755.21. The Current Fund is 9631755.21
+Trade day 158 Keep.The Current Balance is 9631755.21. The Current Fund is 9631755.21
+Trade day 159 Keep.The Current Balance is 9631755.21. The Current Fund is 9631755.21
+Trade day 160 Keep.The Current Balance is 9631755.21. The Current Fund is 9631755.21
+Trade day 161 Successfully Order 6999875.48  . Buy Fee = 10499.81.The Current Balance is 9621255.39. The Current Fund is 2621379.92
+Trade day 162 Keep.The Current Balance is 9604136.32. The Current Fund is 2621379.92
+Trade day 163 Successfully Sell 7022591.75  . Sell Fee = 10533.89.The Current Balance is 9633437.78. The Current Fund is 9633437.78
+Trade day 164 Keep.The Current Balance is 9633437.78. The Current Fund is 9633437.78
+Trade day 165 Not Enough Share to Sell. Do NothingThe Current Balance is 9633437.78. The Current Fund is 9633437.78
+Trade day 166 Successfully Order 6999918.19  . Buy Fee = 10499.88.The Current Balance is 9622937.91. The Current Fund is 2623019.71
+Trade day 167 Successfully Sell 6879513.44  . Sell Fee = 10319.27.The Current Balance is 9492213.88. The Current Fund is 9492213.88
+Trade day 168 Not Enough Share to Sell. Do NothingThe Current Balance is 9492213.88. The Current Fund is 9492213.88
+Trade day 169 Successfully Order 6999793.68  . Buy Fee = 10499.69.The Current Balance is 9481714.19. The Current Fund is 2481920.51
+Trade day 170 Keep.The Current Balance is 9383451.71. The Current Fund is 2481920.51
+Trade day 171 Not enough fund to buy. Do Nothing.The Current Balance is 9549207.39. The Current Fund is 2481920.51
+Trade day 172 Keep.The Current Balance is 9489323.61. The Current Fund is 2481920.51
+Trade day 173 Keep.The Current Balance is 9623979.29. The Current Fund is 2481920.51
+Trade day 174 Successfully Sell 7084160.03  . Sell Fee = 10626.24.The Current Balance is 9555454.30. The Current Fund is 9555454.30
+Trade day 175 Not Enough Share to Sell. Do NothingThe Current Balance is 9555454.30. The Current Fund is 9555454.30
+Trade day 176 Successfully Order 6999877.50  . Buy Fee = 10499.82.The Current Balance is 9544954.49. The Current Fund is 2545076.99
+Trade day 177 Successfully Sell 7147810.80  . Sell Fee = 10721.72.The Current Balance is 9682166.07. The Current Fund is 9682166.07
+Trade day 178 Successfully Order 6999977.13  . Buy Fee = 10499.97.The Current Balance is 9671666.11. The Current Fund is 2671688.98
+Trade day 179 Not enough fund to buy. Do Nothing.The Current Balance is 9647047.90. The Current Fund is 2671688.98
+Trade day 180 Keep.The Current Balance is 9452742.79. The Current Fund is 2671688.98
+Trade day 181 Keep.The Current Balance is 9452156.53. The Current Fund is 2671688.98
+Trade day 182 Keep.The Current Balance is 9452156.53. The Current Fund is 2671688.98
+Trade day 183 Successfully Sell 6982392.75  . Sell Fee = 10473.59.The Current Balance is 9643608.14. The Current Fund is 9643608.14
+Trade day 184 Successfully Order 6999804.03  . Buy Fee = 10499.71.The Current Balance is 9633108.43. The Current Fund is 2633304.40
+Trade day 185 Keep.The Current Balance is 9627815.59. The Current Fund is 2633304.40
+Trade day 186 Successfully Sell 7006273.41  . Sell Fee = 10509.41.The Current Balance is 9629068.40. The Current Fund is 9629068.40
+Trade day 187 Successfully Order 6999941.15  . Buy Fee = 10499.91.The Current Balance is 9618568.49. The Current Fund is 2618627.34
+Trade day 188 Keep.The Current Balance is 9647967.71. The Current Fund is 2618627.34
+Trade day 189 Successfully Sell 6897192.81  . Sell Fee = 10345.79.The Current Balance is 9505474.36. The Current Fund is 9505474.36
+Trade day 190 Keep.The Current Balance is 9505474.36. The Current Fund is 9505474.36
+Trade day 191 Not Enough Share to Sell. Do NothingThe Current Balance is 9505474.36. The Current Fund is 9505474.36
+Trade day 192 Keep.The Current Balance is 9505474.36. The Current Fund is 9505474.36
+Trade day 193 Not Enough Share to Sell. Do NothingThe Current Balance is 9505474.36. The Current Fund is 9505474.36
+Trade day 194 Keep.The Current Balance is 9505474.36. The Current Fund is 9505474.36
+Trade day 195 Successfully Order 6999805.40  . Buy Fee = 10499.71.The Current Balance is 9494974.66. The Current Fund is 2495169.25
+Trade day 196 Keep.The Current Balance is 9149853.32. The Current Fund is 2495169.25
+Trade day 197 Successfully Sell 6841484.55  . Sell Fee = 10262.23.The Current Balance is 9326391.58. The Current Fund is 9326391.58
+Trade day 198 Not Enough Share to Sell. Do NothingThe Current Balance is 9326391.58. The Current Fund is 9326391.58
+Trade day 199 Successfully Order 6999981.75  . Buy Fee = 10499.97.The Current Balance is 9315891.61. The Current Fund is 2315909.86
+Trade day 200 Keep.The Current Balance is 9365176.59. The Current Fund is 2315909.86
+Trade day 201 Keep.The Current Balance is 9216705.92. The Current Fund is 2315909.86
+Trade day 202 Keep.The Current Balance is 9197299.87. The Current Fund is 2315909.86
+Trade day 203 Successfully Sell 6855823.93  . Sell Fee = 10283.74.The Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 204 Keep.The Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 205 Keep.The Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 206 Not Enough Share to Sell. Do NothingThe Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 207 Keep.The Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 208 Keep.The Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 209 Not Enough Share to Sell. Do NothingThe Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 210 Not Enough Share to Sell. Do NothingThe Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 211 Keep.The Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 212 Not Enough Share to Sell. Do NothingThe Current Balance is 9161450.05. The Current Fund is 9161450.05
+Trade day 213 Successfully Order 6999963.70  . Buy Fee = 10499.95.The Current Balance is 9150950.10. The Current Fund is 2150986.40
+Trade day 214 Not enough fund to buy. Do Nothing.The Current Balance is 9078718.44. The Current Fund is 2150986.40
+Trade day 215 Not enough fund to buy. Do Nothing.The Current Balance is 8995874.65. The Current Fund is 2150986.40
+Trade day 216 Not enough fund to buy. Do Nothing.The Current Balance is 8919193.07. The Current Fund is 2150986.40
+Trade day 217 Keep.The Current Balance is 8955822.10. The Current Fund is 2150986.40
+Trade day 218 Not enough fund to buy. Do Nothing.The Current Balance is 8848330.48. The Current Fund is 2150986.40
+Trade day 219 Not enough fund to buy. Do Nothing.The Current Balance is 8842168.82. The Current Fund is 2150986.40
+Trade day 220 Keep.The Current Balance is 8669976.35. The Current Fund is 2150986.40
+Trade day 221 Successfully Sell 6561781.20  . Sell Fee = 9842.67.The Current Balance is 8702924.93. The Current Fund is 8702924.93
+Trade day 222 Successfully Order 6999860.68  . Buy Fee = 10499.79.The Current Balance is 8692425.14. The Current Fund is 1692564.45
+Trade day 223 Keep.The Current Balance is 8733046.02. The Current Fund is 1692564.45
+Trade day 224 Successfully Sell 6958866.76  . Sell Fee = 10438.30.The Current Balance is 8640992.91. The Current Fund is 8640992.91
+Trade day 225 Not Enough Share to Sell. Do NothingThe Current Balance is 8640992.91. The Current Fund is 8640992.91
+Trade day 226 Keep.The Current Balance is 8640992.91. The Current Fund is 8640992.91
+Trade day 227 Keep.The Current Balance is 8640992.91. The Current Fund is 8640992.91
+Trade day 228 Successfully Order 6999980.06  . Buy Fee = 10499.97.The Current Balance is 8630492.94. The Current Fund is 1630512.88
+Trade day 229 Successfully Sell 7091852.15  . Sell Fee = 10637.78.The Current Balance is 8711727.25. The Current Fund is 8711727.25
+Trade day 230 Keep.The Current Balance is 8711727.25. The Current Fund is 8711727.25
+Trade day 231 Keep.The Current Balance is 8711727.25. The Current Fund is 8711727.25
+Trade day 232 Successfully Order 6999970.10  . Buy Fee = 10499.96.The Current Balance is 8701227.30. The Current Fund is 1701257.20
+Trade day 233 Successfully Sell 7025331.43  . Sell Fee = 10538.00.The Current Balance is 8716050.63. The Current Fund is 8716050.63
+Trade day 234 Not Enough Share to Sell. Do NothingThe Current Balance is 8716050.63. The Current Fund is 8716050.63
+Trade day 235 Keep.The Current Balance is 8716050.63. The Current Fund is 8716050.63
+Trade day 236 Successfully Order 6999954.93  . Buy Fee = 10499.93.The Current Balance is 8705550.70. The Current Fund is 1705595.77
+Trade day 237 Successfully Sell 7038446.36  . Sell Fee = 10557.67.The Current Balance is 8733484.47. The Current Fund is 8733484.47
+Trade day 238 Successfully Order 6999888.64  . Buy Fee = 10499.83.The Current Balance is 8722984.63. The Current Fund is 1723095.99
+Trade day 239 Keep.The Current Balance is 8545261.89. The Current Fund is 1723095.99
+Trade day 240 Not enough fund to buy. Do Nothing.The Current Balance is 8597465.49. The Current Fund is 1723095.99
+Trade day 241 Successfully Sell 6897400.73  . Sell Fee = 10346.10.The Current Balance is 8610150.62. The Current Fund is 8610150.62
+Trade day 242 Successfully Order 6999869.68  . Buy Fee = 10499.80.The Current Balance is 8599650.81. The Current Fund is 1599781.13
+Trade day 243 Keep.The Current Balance is 8771240.74. The Current Fund is 1599781.13
+Trade day 244 Successfully Sell 7269730.25  . Sell Fee = 10904.60.The Current Balance is 8858606.79. The Current Fund is 8858606.79
+Trade day 245 Not Enough Share to Sell. Do NothingThe Current Balance is 8858606.79. The Current Fund is 8858606.79
+Trade day 246 Not Enough Share to Sell. Do NothingThe Current Balance is 8858606.79. The Current Fund is 8858606.79
+Trade day 247 Not Enough Share to Sell. Do NothingThe Current Balance is 8858606.79. The Current Fund is 8858606.79
+Trade day 248 Keep.The Current Balance is 8858606.79. The Current Fund is 8858606.79
+Trade day 249 Keep.The Current Balance is 8858606.79. The Current Fund is 8858606.79
+Trade day 250 Successfully Order 6999899.38  . Buy Fee = 10499.85.The Current Balance is 8848106.94. The Current Fund is 1848207.56
+Trade day 251 Not enough fund to buy. Do Nothing.The Current Balance is 8968313.89. The Current Fund is 1848207.56
+Trade day 252 Successfully Sell 7405779.53  . Sell Fee = 11108.67.The Current Balance is 9242878.42. The Current Fund is 9242878.42
+Trade day 253 Keep.The Current Balance is 9242878.42. The Current Fund is 9242878.42
+Trade day 254 Successfully Order 6999924.92  . Buy Fee = 10499.89.The Current Balance is 9232378.53. The Current Fund is 2232453.60
+Trade day 255 Not enough fund to buy. Do Nothing.The Current Balance is 9161611.21. The Current Fund is 2232453.60
+Trade day 256 Not enough fund to buy. Do Nothing.The Current Balance is 9209906.93. The Current Fund is 2232453.60
+Trade day 257 Not enough fund to buy. Do Nothing.The Current Balance is 9534229.53. The Current Fund is 2232453.60
+Trade day 258 Successfully Sell 7320557.66  . Sell Fee = 10980.84.The Current Balance is 9542030.43. The Current Fund is 9542030.43
+Trade day 259 Not Enough Share to Sell. Do NothingThe Current Balance is 9542030.43. The Current Fund is 9542030.43
+Trade day 260 Keep.The Current Balance is 9542030.43. The Current Fund is 9542030.43
+Trade day 261 Keep.The Current Balance is 9542030.43. The Current Fund is 9542030.43
+Trade day 262 Keep.The Current Balance is 9542030.43. The Current Fund is 9542030.43
+Trade day 263 Keep.The Current Balance is 9542030.43. The Current Fund is 9542030.43
+Trade day 264 Keep.The Current Balance is 9542030.43. The Current Fund is 9542030.43
+Trade day 265 Not Enough Share to Sell. Do NothingThe Current Balance is 9542030.43. The Current Fund is 9542030.43
+Trade day 266 Successfully Order 6999830.46  . Buy Fee = 10499.75.The Current Balance is 9531530.69. The Current Fund is 2531700.23
+Trade day 267 Not enough fund to buy. Do Nothing.The Current Balance is 9510370.82. The Current Fund is 2531700.23
+Trade day 268 Not enough fund to buy. Do Nothing.The Current Balance is 9591732.87. The Current Fund is 2531700.23
+Trade day 269 Successfully Sell 7073146.05  . Sell Fee = 10609.72.The Current Balance is 9594236.56. The Current Fund is 9594236.56
+Trade day 270 Keep.The Current Balance is 9594236.56. The Current Fund is 9594236.56
+Trade day 271 Keep.The Current Balance is 9594236.56. The Current Fund is 9594236.56
+Trade day 272 Not Enough Share to Sell. Do NothingThe Current Balance is 9594236.56. The Current Fund is 9594236.56
+Trade day 273 Not Enough Share to Sell. Do NothingThe Current Balance is 9594236.56. The Current Fund is 9594236.56
+Trade day 274 Successfully Order 6999964.05  . Buy Fee = 10499.95.The Current Balance is 9583736.61. The Current Fund is 2583772.56
+Trade day 275 Keep.The Current Balance is 9803100.12. The Current Fund is 2583772.56
+Trade day 276 Keep.The Current Balance is 9697653.05. The Current Fund is 2583772.56
+Trade day 277 Successfully Sell 7198566.45  . Sell Fee = 10797.85.The Current Balance is 9771541.17. The Current Fund is 9771541.17
+Trade day 278 Keep.The Current Balance is 9771541.17. The Current Fund is 9771541.17
+Trade day 279 Successfully Order 6999864.01  . Buy Fee = 10499.80.The Current Balance is 9761041.37. The Current Fund is 2761177.36
+Trade day 280 Successfully Sell 6957654.65  . Sell Fee = 10436.48.The Current Balance is 9708395.54. The Current Fund is 9708395.54
+Trade day 281 Successfully Order 6999937.47  . Buy Fee = 10499.91.The Current Balance is 9697895.63. The Current Fund is 2697958.16
+Trade day 282 Not enough fund to buy. Do Nothing.The Current Balance is 9679516.02. The Current Fund is 2697958.16
+Trade day 283 Keep.The Current Balance is 9632901.27. The Current Fund is 2697958.16
+Trade day 284 Not enough fund to buy. Do Nothing.The Current Balance is 9641158.69. The Current Fund is 2697958.16
+Trade day 285 Successfully Sell 6706130.99  . Sell Fee = 10059.20.The Current Balance is 9394029.95. The Current Fund is 9394029.95
+Trade day 286 Not Enough Share to Sell. Do NothingThe Current Balance is 9394029.95. The Current Fund is 9394029.95
+Trade day 287 Not Enough Share to Sell. Do NothingThe Current Balance is 9394029.95. The Current Fund is 9394029.95
+Trade day 288 Successfully Order 6999888.00  . Buy Fee = 10499.83.The Current Balance is 9383530.12. The Current Fund is 2383642.12
+Trade day 289 Successfully Sell 6437648.00  . Sell Fee = 9656.47.The Current Balance is 8811633.65. The Current Fund is 8811633.65
+Trade day 290 Keep.The Current Balance is 8811633.65. The Current Fund is 8811633.65
+Trade day 291 Keep.The Current Balance is 8811633.65. The Current Fund is 8811633.65
+Trade day 292 Not Enough Share to Sell. Do NothingThe Current Balance is 8811633.65. The Current Fund is 8811633.65
+Trade day 293 Successfully Order 6999925.70  . Buy Fee = 10499.89.The Current Balance is 8801133.76. The Current Fund is 1801208.05
+Trade day 294 Successfully Sell 6447520.21  . Sell Fee = 9671.28.The Current Balance is 8239056.98. The Current Fund is 8239056.98
+Trade day 295 Successfully Order 6999884.25  . Buy Fee = 10499.83.The Current Balance is 8228557.16. The Current Fund is 1228672.91
+Trade day 296 Keep.The Current Balance is 8523292.86. The Current Fund is 1228672.91
+Trade day 297 Not enough fund to buy. Do Nothing.The Current Balance is 8640842.48. The Current Fund is 1228672.91
+Trade day 298 Successfully Sell 7409066.72  . Sell Fee = 11113.60.The Current Balance is 8626626.02. The Current Fund is 8626626.02
+Trade day 299 Successfully Order 6999804.00  . Buy Fee = 10499.71.The Current Balance is 8616126.32. The Current Fund is 1616322.32
+Trade day 300 Not enough fund to buy. Do Nothing.The Current Balance is 8703168.96. The Current Fund is 1616322.32
+Trade day 301 Not enough fund to buy. Do Nothing.The Current Balance is 8297742.96. The Current Fund is 1616322.32
+Trade day 302 Successfully Sell 6800235.15  . Sell Fee = 10200.35.The Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 303 Not Enough Share to Sell. Do NothingThe Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 304 Keep.The Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 305 Keep.The Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 306 Keep.The Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 307 Keep.The Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 308 Keep.The Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 309 Keep.The Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 310 Keep.The Current Balance is 8406357.12. The Current Fund is 8406357.12
+Trade day 311 Successfully Order 6999873.57  . Buy Fee = 10499.81.The Current Balance is 8395857.31. The Current Fund is 1395983.73
+Trade day 312 Keep.The Current Balance is 8395188.03. The Current Fund is 1395983.73
+Trade day 313 Not enough fund to buy. Do Nothing.The Current Balance is 8399537.61. The Current Fund is 1395983.73
+Trade day 314 Not enough fund to buy. Do Nothing.The Current Balance is 8236602.19. The Current Fund is 1395983.73
+Trade day 315 Not enough fund to buy. Do Nothing.The Current Balance is 8200468.56. The Current Fund is 1395983.73
+Trade day 316 Successfully Sell 6869725.88  . Sell Fee = 10304.59.The Current Balance is 8255405.02. The Current Fund is 8255405.02
+Trade day 317 Not Enough Share to Sell. Do NothingThe Current Balance is 8255405.02. The Current Fund is 8255405.02
+Trade day 318 Keep.The Current Balance is 8255405.02. The Current Fund is 8255405.02
+Trade day 319 Successfully Order 6999921.63  . Buy Fee = 10499.88.The Current Balance is 8244905.14. The Current Fund is 1244983.51
+Trade day 320 Not enough fund to buy. Do Nothing.The Current Balance is 8242474.01. The Current Fund is 1244983.51
+Trade day 321 Successfully Sell 6974223.48  . Sell Fee = 10461.34.The Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 322 Not Enough Share to Sell. Do NothingThe Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 323 Not Enough Share to Sell. Do NothingThe Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 324 Keep.The Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 325 Not Enough Share to Sell. Do NothingThe Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 326 Not Enough Share to Sell. Do NothingThe Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 327 Keep.The Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 328 Not Enough Share to Sell. Do NothingThe Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 329 Not Enough Share to Sell. Do NothingThe Current Balance is 8208745.65. The Current Fund is 8208745.65
+Trade day 330 Successfully Order 6999865.28  . Buy Fee = 10499.80.The Current Balance is 8198245.85. The Current Fund is 1198380.58
+Trade day 331 Not enough fund to buy. Do Nothing.The Current Balance is 8041720.48. The Current Fund is 1198380.58
+Trade day 332 Successfully Sell 6636477.90  . Sell Fee = 9954.72.The Current Balance is 7824903.76. The Current Fund is 7824903.76
+Trade day 333 Not Enough Share to Sell. Do NothingThe Current Balance is 7824903.76. The Current Fund is 7824903.76
+Trade day 334 Keep.The Current Balance is 7824903.76. The Current Fund is 7824903.76
+Trade day 335 Successfully Order 6999998.07  . Buy Fee = 10500.00.The Current Balance is 7814403.77. The Current Fund is 814405.70
+Trade day 336 Successfully Sell 7053324.22  . Sell Fee = 10579.99.The Current Balance is 7857149.93. The Current Fund is 7857149.93
+Trade day 337 Keep.The Current Balance is 7857149.93. The Current Fund is 7857149.93
+Trade day 338 Not Enough Share to Sell. Do NothingThe Current Balance is 7857149.93. The Current Fund is 7857149.93
+Trade day 339 Keep.The Current Balance is 7857149.93. The Current Fund is 7857149.93
+Trade day 340 Successfully Order 6999895.99  . Buy Fee = 10499.84.The Current Balance is 7846650.09. The Current Fund is 846754.10
+Trade day 341 Keep.The Current Balance is 7889537.37. The Current Fund is 846754.10
+Trade day 342 Keep.The Current Balance is 7985007.38. The Current Fund is 846754.10
+Trade day 343 Successfully Sell 6992437.50  . Sell Fee = 10488.66.The Current Balance is 7828702.94. The Current Fund is 7828702.94
+Trade day 344 Not Enough Share to Sell. Do NothingThe Current Balance is 7828702.94. The Current Fund is 7828702.94
+Trade day 345 Keep.The Current Balance is 7828702.94. The Current Fund is 7828702.94
+Trade day 346 Keep.The Current Balance is 7828702.94. The Current Fund is 7828702.94
+Trade day 347 Keep.The Current Balance is 7828702.94. The Current Fund is 7828702.94
+Trade day 348 Successfully Order 6999961.60  . Buy Fee = 10499.94.The Current Balance is 7818203.00. The Current Fund is 818241.40
+Trade day 349 Successfully Sell 6938259.40  . Sell Fee = 10407.39.The Current Balance is 7746093.40. The Current Fund is 7746093.40
+Trade day 350 Successfully Order 6999977.04  . Buy Fee = 10499.97.The Current Balance is 7735593.44. The Current Fund is 735616.40
+Trade day 351 Successfully Sell 6939586.24  . Sell Fee = 10409.38.The Current Balance is 7664793.26. The Current Fund is 7664793.26
+Trade day 352 Successfully Order 6999937.68  . Buy Fee = 10499.91.The Current Balance is 7654293.35. The Current Fund is 654355.67
+Trade day 353 Successfully Sell 6862784.57  . Sell Fee = 10294.18.The Current Balance is 7506846.06. The Current Fund is 7506846.06
+Trade day 354 Successfully Order 6999930.12  . Buy Fee = 10499.90.The Current Balance is 7496346.17. The Current Fund is 496416.04
+Trade day 355 Not enough fund to buy. Do Nothing.The Current Balance is 7342506.07. The Current Fund is 496416.04
+Trade day 356 Not enough fund to buy. Do Nothing.The Current Balance is 7272652.29. The Current Fund is 496416.04
+Trade day 357 Keep.The Current Balance is 7382884.07. The Current Fund is 496416.04
+Trade day 358 Keep.The Current Balance is 7369155.71. The Current Fund is 496416.04
+Trade day 359 Not enough fund to buy. Do Nothing.The Current Balance is 7369962.82. The Current Fund is 496416.04
+Trade day 360 Not enough fund to buy. Do Nothing.The Current Balance is 7353408.29. The Current Fund is 496416.04
+Trade day 361 Keep.The Current Balance is 7380057.32. The Current Fund is 496416.04
+Trade day 362 Not enough fund to buy. Do Nothing.The Current Balance is 7327565.80. The Current Fund is 496416.04
+Trade day 363 Not enough fund to buy. Do Nothing.The Current Balance is 7131732.87. The Current Fund is 496416.04
+Trade day 364 Keep.The Current Balance is 7231870.14. The Current Fund is 496416.04
